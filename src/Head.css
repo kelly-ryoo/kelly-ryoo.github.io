@@ -37,7 +37,7 @@ html {
   background-attachment: fixed;
 }
 
-.Experience, .Extracurriculars{
+.Experience, .Extracurriculars, .Projects{
   background: rgb(238,174,202);
   background: linear-gradient(180deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
   background-attachment: fixed;
@@ -191,3 +191,10 @@ html {
   background-color: white;
   border-radius: 50%;
 }
+
+/* --------------------TIMELINE-------------------- */
+
+
+
+
+
