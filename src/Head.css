@@ -22,19 +22,22 @@ html {
 
 .topLogo{
   position:fixed;
-  width:20px;
   top:5vh;
   left:5vw;
 }
+.topLogo img{
+  width:20px;
+  height:30px;
+}
 
 .Experience a{
-  color:#A7C7E7;
+  color:#6699cc;
 }
 .Extracurriculars a{
-  color:#A7C7E7;
+  color:#6699cc;
 }
 .Projects a{
-  color:#A7C7E7;
+  color:#6699cc;
 }
 
 /* --------------------BACKGROUND-------------------- */
