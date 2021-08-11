@@ -11,7 +11,7 @@ class Education extends React.Component {
 
         <div className="row degree-wrapper">
           <div className="col-12 d-flex justify-content-center">
-            <h6 className="degree">B.S. in Policy Analysis and Management</h6>
+            <h6 className="degree">B.A. in Computer Science</h6>
           </div>
           <div className="col-12 d-flex justify-content-center">
             <span className="italics">expected May 2024</span>
