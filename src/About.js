@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import image from "./img/headshot.png"
+import image from "./img/headshot.jpg"
 import CircleType from "circletype";
 
 /* https://circletype.labwire.ca/ */
