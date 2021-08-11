@@ -52,8 +52,8 @@ export default function Head(){
           </nav>
 
         <div className="head-title-wrapper" y={[-20, 20]} tagOuter="figure">
-            <h1 className="title title-name">Grace Li</h1>
-          <p className="title-subtitle">policy analysis and management</p>
+            <h1 className="title title-name">Kelly Ryoo</h1>
+          <p className="title-subtitle">computer science student</p>
         </div>
     </div>
     )

@@ -14,49 +14,46 @@ class Extracurriculars extends React.Component {
 
           {/* 1 */}
           <div className="timeline-el">
-            <h6 className="timeline-head">Coordinator and Outreach Manager at Asian American Intervarsity</h6>
-            <span className="timeline-date">Fall 2020 - Present</span>
+            <h6 className="timeline-head">Design Co-Director at Women In Computing at Cornell</h6>
+            <span className="timeline-date">Aug 2021 - Present</span>
             <div className="timeline-descrip">
               <ul>
-                <li>Planned and led weekly Zoom meetings for 50+ people</li>
-                <li>Oversaw communications team and managed instagram, facebook, website, email, etc.</li>
-                <li>Predispotionally invited speakers, mapped out weekly topics, and oversaw roles such as tech, emcee, and scribe</li>
+                <li>Creating designs for organization initiatives, publicity, and merch using Procreate and Figma</li>
               </ul>
             </div>
           </div>
 
           {/* 2 */}
           <div className="timeline-el">
-            <h6 className="timeline-head">Communication Liaison (E-board) at Students Helping Honduras</h6>
-            <span className="timeline-date">Fall 2020 - Present</span>
+            <h6 className="timeline-head">Social Co-Director at Women In Computing at Cornell</h6>
+            <span className="timeline-date">Spring 2021</span>
             <div className="timeline-descrip">
               <ul>
-                <li>Attended weekly meetings and discussed ways to provide every Honduran child quality access to education</li>
-                <li>Fundraised over $200 through virtual game nights, suggested donations, venmo challenges, etc.</li>
+                <li>Collaborated with the other social co-director to organize and host social events for the executive board and general body</li>
+                <li>Strengthened the community of women engineers at Cornell by creating fun activities and events to network with other engineers</li>
               </ul>
             </div>
           </div>
 
           {/* 3 */}
           <div className="timeline-el">
-            <h6 className="timeline-head">Member of Phi Alpha Delta Law Fraternity</h6>
-            <span className="timeline-date">Fall 2020 - Present</span>
+            <h6 className="timeline-head">Creator Studio Team Lead at Cornell Creatives</h6>
+            <span className="timeline-date">Spring 2021</span>
             <div className="timeline-descrip">
               <ul>
-                <li>Prepared weekly presentations regarding topics such as humanitarian crises and controversial cases</li>
-                <li>Participated in events such as Douglas debate, speech, and coffee chats</li>
+                <li>Directed the newly launched Creator Studio program, creating a space for creators to connect and inspire each other</li>
+                <li>Led a committee of eight students to organize weekly workshops and events</li>
               </ul>
             </div>
           </div>
 
           {/* 4 */}
           <div className="timeline-el last-el">
-            <h6 className="timeline-head">Captain of PSAL Varsity Volleyball And Club</h6>
-            <span className="timeline-date">Fall 2016 - 2020</span>
+            <h6 className="timeline-head">Graphic Designer at Passionfruit</h6>
+            <span className="timeline-date">Fall 2020</span>
             <div className="timeline-descrip">
               <ul>
-                <li>Committed 25+ hours weekly to training and games regarding individual skills and teamwork</li>
-                <li>Supervised drills, workouts, and practices with 15+ students to encourage team chemistry for competitive games</li>
+                <li>Designing and creating graphics for Passionfruit, an online social activism platform</li>
               </ul>
             </div>
           </div>
