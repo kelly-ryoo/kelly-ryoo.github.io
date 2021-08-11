@@ -25,10 +25,12 @@ export default function About(){
         <div className="row about-p-wrapper">
           <div className="col-12 d-flex justify-content-center">
             <p className="about-p">
-            Hello, I’m Kelly! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            Hello, I’m Kelly! I'm currently a sophomore at the College of Arts and Sciences at Cornell University, Ithaca, NY. 
+            My interests include software engineering, machine learning, front-end website development, and graphic deisgn. 
+            I also love reading, playing the guitar, watercoloring, and recently I've been trying to learn how to skateboard. 
             <br></br>
             <br></br>
-            <span className="italics">Contact me at <a href="mailTo:gl443@cornell.edu">gl443@cornell.edu</a>!</span>
+            <span className="italics">Feel free to contact me at <a href="mailTo:kyr5@cornell.edu">kyr5@cornell.edu</a>!</span>
             </p>
           </div>
         </div>
