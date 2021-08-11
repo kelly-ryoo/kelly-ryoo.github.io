@@ -22,9 +22,19 @@ html {
 
 .topLogo{
   position:fixed;
+  width:20px;
   top:5vh;
   left:5vw;
+}
 
+.Experience a{
+  color:#A7C7E7;
+}
+.Extracurriculars a{
+  color:#A7C7E7;
+}
+.Projects a{
+  color:#A7C7E7;
 }
 
 /* --------------------BACKGROUND-------------------- */
@@ -192,7 +202,11 @@ html {
   border-radius: 50%;
 }
 
-/* --------------------TIMELINE-------------------- */
+/* --------------------PROJECTS-------------------- */
+.Projects{
+  padding-bottom:10vh;
+}
+
 
 
 
