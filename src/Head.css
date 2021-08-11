@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* --------------------GENERAL-------------------- */
+.container-fluid{
+  width:100vw;
+  padding:0;
+  overflow-x:hidden;
+
+  font-family: 'Poppins';
+  color:white;
+  font-weight:500;
+}
+
+html {
+  overflow-x:none;
+  scroll-behavior: smooth;
+}
+
+.italics{
+  font-style:italic;
+}
+
+.topLogo{
+  position:fixed;
+  top:5vh;
+  left:5vw;
+
+}
+
+/* --------------------BACKGROUND-------------------- */
+.exactpg{ height:100vh !important; }
+.longerpg{ min-height:100vh  !important; }
+
+.maxHundredVh{ /* fixed background for max 100vh sections */
+  background: rgb(238,174,202);
+  background: linear-gradient(180deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background-attachment: fixed;
+}
+
+.Experience, .Extracurriculars{
+  background: rgb(238,174,202);
+  background: linear-gradient(180deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background-attachment: fixed;
+}
+
+
+/* --------------------NAVBAR-------------------- */
+.navbar, .navbar ul{
+  margin: auto;
+  width: 50%;
+}
+.navbar{padding-top:3vh;}
+
+.nav-item a{
+  color:white;
+  opacity:70%;
+  font-weight:600;
+  text-decoration: none;
+}
+.nav-item a:hover{
+  opacity:100%;
+}
+
+/* --------------------TITLES-------------------- */
+.head-title-wrapper{
+  position:absolute;
+  bottom:10vh;
+  left:7.5vw;
+}
+
+.title-wrapper{
+  text-align:center;
+}
+
+.title{
+  font-weight: 700;
+  font-size: 6vw;
+  letter-spacing:1.5px;
+  text-transform: uppercase;
+  padding-top:5vh;
+}
+
+.title-subtitle{
+  font-style:italic;
+}
+
+
+/* --------------------ABOUT-------------------- */
+#about-title{
+  font-size:50px;
+  margin-bottom:0;
+}
+
+.about-p-wrapper{
+  padding-top:6vh;
+}
+
+.about-p{
+  width:70vw;
+  text-align: center;
+
+  font-size:20px;
+}
+@media screen and (max-width: 600px) {
+  .about-p{font-size:12px;}
+}
+.about-p a{color:white; font-weight:600;}
+
+
+.headshot{
+  width:275px;
+  border-radius:50%;
+
+  border:8px solid rgb(255,255,255,50%);
+
+  margin-top:-20px;
+}
+
+/* --------------------EDUCATION-------------------- */
+.degree-wrapper{
+  padding-bottom:5vh;
+}
+
+.degree{
+  font-size:2vw;
+  font-weight:700;
+}
+
+.map{
+  width:550px;
+  max-width:80vw;
+}
+
+
+/* --------------------TIMELINE-------------------- */
+.timeline-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.timeline{
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.timeline-el{
+  display:block;
+  padding-top:4vh;
+}
+
+.last-el{
+  padding-bottom:0px;
+}
+
+.timeline-head{
+  text-decoration: underline;
+  font-weight: 600;
+  font-size:20px;
+  display:inline;
+}
+
+.timeline-date{
+  font-style:italic;
+  display:inline;
+  padding-left:10px;
+  position:relative;
+  float:right;
+  font-size:14px;
+}
+
+.timeline-descrip{
+  font-size:17px;
+}
+
+/* timeline line */
+.line{
+  border-left: 2px solid white;
+  height: 100%;
+  right:100;
+  position:absolute;
+}
+
+.dot-date{
+  position:relative;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: white;
+  border-radius: 50%;
+}
