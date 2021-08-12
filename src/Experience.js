@@ -30,7 +30,7 @@ class Experience extends React.Component {
             <span className="timeline-date">Summer 2021</span>
             <div className="timeline-descrip">
               <ul>
-                <li>Participating in an NSF funded REU (Research Experience for Undergraduates) program on consumer networking technologies</li>
+                <li>Participated in an NSF funded REU (Research Experience for Undergraduates) program on consumer networking technologies</li>
                 <li>Collaborated with 2 other interns to design and code a deep learning model to automatically classify sleep stages</li>
                 <li>Check out my presentation from the virtual forum <a href="https://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A428910" target="_blank">here</a></li>
                 <li>Wrote a paper summarizing our work and results, currently working on submitting it to the <a href="https://ieeebibm.org/BIBM2021/" target="_blank">BIBM conference</a></li>
