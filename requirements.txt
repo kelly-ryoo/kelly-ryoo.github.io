@@ -1,2 +1,2 @@
 python-dotenv>=1.0,<2
-storygraph-api==0.2.1
+requests>=2.31,<3

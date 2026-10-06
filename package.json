@@ -7,7 +7,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "sync:bookshelf": ".venv/bin/python scripts/sync_storygraph.py"
+    "sync:bookshelf": ".venv/bin/python scripts/sync_goodreads.py"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

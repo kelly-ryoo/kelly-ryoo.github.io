@@ -463,18 +463,10 @@ function CollectionPage({ page }) {
   );
 }
 
-const bookshelfShelves = [
-  { id: 'read', label: 'Read', title: 'Books I’ve read' },
-  { id: 'currently_reading', label: 'Currently reading', title: 'Currently reading' },
-  { id: 'to_read', label: 'Want to read', title: 'Want to read' },
-];
-
 function BookshelfPage() {
-  const [shelf, setShelf] = useState('read');
   const [library, setLibrary] = useState(null);
   const [loadError, setLoadError] = useState(false);
-  const selectedShelf = bookshelfShelves.find(({ id }) => id === shelf);
-  const books = library?.shelves?.[shelf] ?? [];
+  const books = library?.books ?? [];
 
   useEffect(() => {
     const controller = new AbortController();
@@ -496,22 +488,15 @@ function BookshelfPage() {
       <a className="home-back collection-back page-reveal" href="#home" aria-label="Back to home"><span aria-hidden="true">↖</span> home</a>
       <header className="collection-heading bookshelf-heading page-reveal" style={{ '--reveal-order': 0 }}>
         <div>
-          <p className="bookshelf-kicker">Kelly Ryoo <span>/</span> StoryGraph</p>
-          <h1>{selectedShelf.title}</h1>
+          <p className="bookshelf-kicker">Kelly Ryoo <span>/</span> Goodreads</p>
+          <h1>Books I’ve read</h1>
         </div>
-        <a href="https://app.thestorygraph.com/profile/kellyryoo?redirect=true" target="_blank" rel="noreferrer">
-          Open StoryGraph <span aria-hidden="true">↗</span>
+        <a href="https://www.goodreads.com/user/show/68326103" target="_blank" rel="noreferrer">
+          Open Goodreads <span aria-hidden="true">↗</span>
         </a>
       </header>
-      <section className="bookshelf-content page-reveal" style={{ '--reveal-order': 1 }} aria-label="StoryGraph bookshelf">
+      <section className="bookshelf-content page-reveal" style={{ '--reveal-order': 1 }} aria-label="Goodreads read shelf">
         <div className="bookshelf-toolbar">
-          <div className="bookshelf-switch" role="group" aria-label="Choose a bookshelf">
-            {bookshelfShelves.map(({ id, label }) => (
-              <button aria-pressed={shelf === id} key={id} onClick={() => setShelf(id)} type="button">
-                {label}
-              </button>
-            ))}
-          </div>
           <span className="bookshelf-count">{books.length} {books.length === 1 ? 'book' : 'books'}</span>
         </div>
         {loadError ? (
@@ -522,7 +507,7 @@ function BookshelfPage() {
           <ol className="bookshelf-list">
             {books.map((book, index) => (
               <li key={book.book_id}>
-                <a href={`https://app.thestorygraph.com/books/${encodeURIComponent(book.book_id)}`} target="_blank" rel="noreferrer">
+                <a href={`https://www.goodreads.com/book/show/${encodeURIComponent(book.book_id)}`} target="_blank" rel="noreferrer">
                   <span className="bookshelf-number">{String(index + 1).padStart(2, '0')}</span>
                   <span className="bookshelf-book-title">{book.title}</span>
                   <span className="bookshelf-arrow" aria-hidden="true">↗</span>
