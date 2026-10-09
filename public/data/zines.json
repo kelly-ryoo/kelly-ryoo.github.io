@@ -1,0 +1,144 @@
+{
+  "source": "Google Drive",
+  "syncedAt": "2026-10-08T02:55:31.362274+00:00",
+  "zines": [
+    {
+      "id": "14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d",
+      "title": "Anatomy of a Kimbap",
+      "contentHash": "e680019bf0e3f10682fac75c729a9fd7bb60ad8c9fe006d1b7822912e2aaf637",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-001.jpg",
+      "pages": [
+        "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-001.jpg",
+        "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-002.jpg",
+        "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-003.jpg",
+        "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-004.jpg",
+        "/zines/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.792829,
+        1.662351,
+        1.672311,
+        1.630976,
+        0.802789
+      ],
+      "source": "https://drive.google.com/file/d/14X5Xm8GulplaHnU6gDYBkf_zeEdvp-0d/view"
+    },
+    {
+      "id": "1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg",
+      "title": "Best SF Bakeries",
+      "contentHash": "2e08ce9237a400d1e9a11075fc5c31be74ce5e73a3d16f25c34fcf32d657a4f6",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-001.jpg",
+      "pages": [
+        "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-001.jpg",
+        "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-002.jpg",
+        "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-003.jpg",
+        "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-004.jpg",
+        "/zines/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.681791,
+        1.350029,
+        1.330583,
+        1.368886,
+        0.675309
+      ],
+      "source": "https://drive.google.com/file/d/1WBOJPO3ulT774fJVy4hK3VPNbVZSFNYg/view"
+    },
+    {
+      "id": "1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU",
+      "title": "CDMX",
+      "contentHash": "02365d17a6d48ea7a12305bf6fdba20314c88501d598bfe1d7f454927769968c",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-001.jpg",
+      "pages": [
+        "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-001.jpg",
+        "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-002.jpg",
+        "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-003.jpg",
+        "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-004.jpg",
+        "/zines/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.648019,
+        1.293706,
+        1.293706,
+        1.293706,
+        0.648019
+      ],
+      "source": "https://drive.google.com/file/d/1sKMQC7L-UwLI_nkas2N31_neUWSSzkeU/view"
+    },
+    {
+      "id": "1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU",
+      "title": "Ideophones in Korean",
+      "contentHash": "8c2fbe86238fcb3260832ff712bef0fa6f63056c0f4445488a5ae268de985b53",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-001.jpg",
+      "pages": [
+        "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-001.jpg",
+        "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-002.jpg",
+        "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-003.jpg",
+        "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-004.jpg",
+        "/zines/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.624695,
+        1.259151,
+        1.326989,
+        1.298194,
+        0.684236
+      ],
+      "source": "https://drive.google.com/file/d/1KI9zRVFeLYXZyEicRyJqDKxxreOIvrLU/view"
+    },
+    {
+      "id": "17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr",
+      "title": "Korean Household Objects",
+      "contentHash": "014724c88a161b386574c6a7f35523149d24a915a785e23afa575ef0ec451e41",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-001.jpg",
+      "pages": [
+        "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-001.jpg",
+        "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-002.jpg",
+        "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-003.jpg",
+        "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-004.jpg",
+        "/zines/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.606957,
+        1.250435,
+        1.242899,
+        1.285797,
+        0.612754
+      ],
+      "source": "https://drive.google.com/file/d/17tlD0WWYXjxfrPyHNnmLCbp-WudhYfXr/view"
+    },
+    {
+      "id": "1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT",
+      "title": "TEA pt 1",
+      "contentHash": "e02a43385410ec514ccb687e0e1845b713c3cf5c3f3d8624add627e73c21c7e4",
+      "renderVersion": 2,
+      "pageCount": 5,
+      "cover": "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-001.jpg",
+      "pages": [
+        "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-001.jpg",
+        "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-002.jpg",
+        "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-003.jpg",
+        "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-004.jpg",
+        "/zines/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/page-005.jpg"
+      ],
+      "pageRatios": [
+        0.647196,
+        1.292056,
+        1.292056,
+        1.296729,
+        0.647196
+      ],
+      "source": "https://drive.google.com/file/d/1ipe9aWrRb6rJcNQP34SEALWPm9naY1OT/view"
+    }
+  ]
+}

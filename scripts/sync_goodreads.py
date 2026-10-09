@@ -1,118 +1,58 @@
 import json
-import os
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
+from xml.etree import ElementTree
 
 import requests
-from dotenv import load_dotenv
 
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "public" / "data" / "bookshelf.json"
-GOODREADS_USER_ID = "68326103"
-
-
-def nested_list(value):
-    if isinstance(value, list):
-        return value
-    if isinstance(value, dict):
-        for key in ("data", "GoodreadsResponse", "goodreadsResponse", "reviews", "review", "books"):
-            if key in value:
-                found = nested_list(value[key])
-                if found is not None:
-                    return found
-    return None
-
-
-def scalar(value):
-    if isinstance(value, (str, int)):
-        return str(value)
-    if isinstance(value, dict):
-        for key in ("#text", "text", "value"):
-            if key in value:
-                return scalar(value[key])
-    return None
-
-
-def collect_shelves(value):
-    if isinstance(value, str):
-        return {name.strip().lower() for name in value.split(",") if name.strip()}
-    if isinstance(value, list):
-        return set().union(*(collect_shelves(item) for item in value)) if value else set()
-    if isinstance(value, dict):
-        names = set()
-        for key in ("name", "@name", "shelf_name", "exclusive_shelf"):
-            if key in value:
-                name = scalar(value[key])
-                if name:
-                    names.add(name.strip().lower())
-        for key in ("shelves", "shelf", "user_shelves", "shelf_names"):
-            if key in value:
-                names.update(collect_shelves(value[key]))
-        return names
-    return set()
+GOODREADS_USER_ID = "204863493"
 
 
 def parse_read_books(payload):
-    if isinstance(payload, dict) and (payload.get("success") is False or payload.get("error")):
-        raise RuntimeError("NoCodeAPI returned an error while fetching Goodreads books.")
+    try:
+        root = ElementTree.fromstring(payload)
+    except ElementTree.ParseError:
+        raise RuntimeError("Goodreads returned invalid RSS data.") from None
 
-    records = nested_list(payload)
-    if records is None:
-        raise RuntimeError("NoCodeAPI returned an unrecognized Goodreads response.")
+    channel = root.find("channel")
+    if channel is None or "bookshelf: read" not in (channel.findtext("title") or "").lower():
+        raise RuntimeError("Goodreads did not return the public read shelf RSS feed.")
 
     books = []
     seen_ids = set()
-    has_shelf_metadata = False
-    for record in records:
-        if not isinstance(record, dict):
-            continue
-        book = record.get("book") if isinstance(record.get("book"), dict) else record
-        shelf_names = collect_shelves(record)
-        if not shelf_names:
-            shelf_names = collect_shelves(book)
-        has_shelf_metadata = has_shelf_metadata or bool(shelf_names)
-        if "read" not in shelf_names:
-            continue
-
-        title = scalar(book.get("title") or record.get("title"))
-        book_id = scalar(book.get("id") or book.get("book_id") or record.get("book_id"))
+    for item in channel.findall("item"):
+        title = (item.findtext("title") or "").strip()
+        book_id = (item.findtext("book_id") or "").strip()
+        cover_url = (item.findtext("book_large_image_url") or item.findtext("book_image_url") or "").strip()
+        read_at = (item.findtext("user_read_at") or "").strip()
         if not title or not book_id or book_id in seen_ids:
             continue
-        books.append({"title": title, "book_id": book_id})
+        try:
+            read_year = parsedate_to_datetime(read_at).year if read_at else None
+        except (TypeError, ValueError):
+            read_year = None
+        books.append({"title": title, "book_id": book_id, "cover_url": cover_url, "read_year": read_year})
         seen_ids.add(book_id)
-
-    if records and not has_shelf_metadata:
-        raise RuntimeError(
-            "Goodreads results did not include shelf names, so the read-only list could not be verified."
-        )
     return books
 
 
-def fetch_read_books(cloud_name, token):
-    url = f"https://v1.nocodeapi.com/{cloud_name}/gr/{token}/myBooks"
+def fetch_read_books():
+    url = f"https://www.goodreads.com/review/list_rss/{GOODREADS_USER_ID}?shelf=read&per_page=200"
     try:
-        response = requests.get(url, params={"uid": GOODREADS_USER_ID}, timeout=45)
+        response = requests.get(url, headers={"User-Agent": "personal-website bookshelf sync"}, timeout=45)
         response.raise_for_status()
-        payload = response.json()
     except requests.RequestException as error:
         status = error.response.status_code if error.response is not None else "unavailable"
-        raise RuntimeError(f"NoCodeAPI request failed (HTTP {status}).") from None
-    except ValueError:
-        raise RuntimeError("NoCodeAPI returned invalid JSON.") from None
-    return parse_read_books(payload)
+        raise RuntimeError(f"Goodreads RSS request failed (HTTP {status}).") from None
+    return parse_read_books(response.content)
 
 
 def main():
-    load_dotenv(ROOT / ".env.local")
-    cloud_name = os.getenv("NOCODEAPI_CLOUD_NAME")
-    token = os.getenv("NOCODEAPI_TOKEN")
-    if not cloud_name or not token:
-        raise SystemExit(
-            "Set NOCODEAPI_CLOUD_NAME and NOCODEAPI_TOKEN in .env.local or GitHub Actions secrets."
-        )
-
-    books = fetch_read_books(cloud_name, token)
+    books = fetch_read_books()
     if OUTPUT.exists():
         existing_payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
         if existing_payload.get("books") == books:

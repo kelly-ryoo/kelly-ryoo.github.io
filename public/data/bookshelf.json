@@ -1,6 +1,877 @@
 {
   "source": "Goodreads",
-  "userId": "68326103",
-  "syncedAt": null,
-  "books": []
+  "userId": "204863493",
+  "syncedAt": "2026-10-08T16:31:51.563338+00:00",
+  "books": [
+    {
+      "title": "Nationalism: A World History",
+      "book_id": "210582555",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718924662l/210582555._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Taipei Story",
+      "book_id": "247546631",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1772810558l/247546631._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "book_id": "34454589",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552336l/34454589._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Tiny Love Stories: True Tales of Love in 100 Words or Less",
+      "book_id": "51612667",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592764013l/51612667.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Strangers: A Memoir of Marriage",
+      "book_id": "231108670",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1749266330l/231108670._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Yesteryear",
+      "book_id": "238226942",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753932705l/238226942._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "1938 \ud0c0\uc774\uc644 \uc5ec\ud589\uae30",
+      "book_id": "247752397",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1770589710l/247752397._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Shanghai Girls (Shanghai Girls, #1)",
+      "book_id": "5960325",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327968416l/5960325.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Empty",
+      "book_id": "52637788",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578504769l/52637788._SX318_SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Overbooked: The Exploding Business of Travel and Tourism",
+      "book_id": "15802466",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361195642l/15802466.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "And Every Morning the Way Home Gets Longer and Longer",
+      "book_id": "31373633",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472074835l/31373633._SX318_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "I Deliver Parcels in Beijing",
+      "book_id": "222685805",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741319477l/222685805._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "\uc790\ubabd\uc0b4\uad6c\ud074\ub7fd",
+      "book_id": "239266009",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753746249l/239266009._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "\ub2e8 \ud55c \ubc88\uc758 \uc0b6",
+      "book_id": "230324534",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1743754940l/230324534._SX318_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "\ucc45\uc744 \ub36e\uace0 \uc0b6\uc744 \uc5f4\ub2e4",
+      "book_id": "245421501",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1766000533l/245421501._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Everyone in This Room Will Someday Be Dead",
+      "book_id": "59366182",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655915331l/59366182.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "All Fours",
+      "book_id": "197798168",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695913995l/197798168._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Case Against Sugar",
+      "book_id": "29874881",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461535086l/29874881.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "We Have Never Been Woke: The Cultural Contradictions of a New Elite",
+      "book_id": "211003982",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713423719l/211003982._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Normal People",
+      "book_id": "41057294",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571423190l/41057294._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Butter",
+      "book_id": "200776812",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698348373l/200776812._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Shark Heart",
+      "book_id": "62919375",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092164l/62919375._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Secret Life of Groceries: The Dark Miracle of the American Supermarket",
+      "book_id": "50548165",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591636711l/50548165.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Defining Decade: Why Your Twenties Matter\u2014And How to Make the Most of Them Now",
+      "book_id": "40603783",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529594243l/40603783.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Crying in H Mart",
+      "book_id": "54814676",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It",
+      "book_id": "60613920",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655759920l/60613920.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Conversations on Love",
+      "book_id": "57028269",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626342666l/57028269._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "When We Walk By: Forgotten Humanity, Broken Systems, and the Role We Can Each Play in Ending Homelessness in America",
+      "book_id": "126532487",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684784562l/126532487.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "What My Bones Know",
+      "book_id": "58214328",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644336652l/58214328.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Highest Exam: How the Gaokao Shapes China",
+      "book_id": "231286304",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747047207l/231286304._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "One Day, Everyone Will Have Always Been Against This",
+      "book_id": "213870084",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764097849l/213870084._SX318_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "The Memory Police",
+      "book_id": "37004370",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Those Who Should Be Seized Should Be Seized: China's Relentless Persecution of Uyghurs and Other Ethnic Minorities",
+      "book_id": "217248007",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723005505l/217248007._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Free Food for Millionaires",
+      "book_id": "40727626",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530825083l/40727626._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "Algospeak: How Social Media Is Transforming the Future of Language",
+      "book_id": "220458608",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733256099l/220458608._SY475_.jpg",
+      "read_year": 2026
+    },
+    {
+      "title": "\ucc9c \uac1c\uc758 \ud30c\ub791",
+      "book_id": "56887875",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612021270l/56887875._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uae09\ub9e4 106\ub3d9 101\ud638",
+      "book_id": "255263796",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1783755421l/255263796._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Transcendent Kingdom",
+      "book_id": "48570454",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571925550l/48570454.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Politics of Design: A (Not So) Global Design Manual for Visual Communication",
+      "book_id": "27150875",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461083242l/27150875.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "I Who Have Never Known Men",
+      "book_id": "60811826",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649947133l/60811826._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Beasts of a Little Land",
+      "book_id": "57151981",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614930101l/57151981.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Real Americans",
+      "book_id": "62929342",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691858842l/62929342._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Cheesecake",
+      "book_id": "217387622",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734411729l/217387622._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "A Girl in Exile",
+      "book_id": "29848445",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521905934l/29848445.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uaca8\uc6b8\uc744 \uc9c0\ub098\uac00\ub2e4",
+      "book_id": "202542079",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700677439l/202542079._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Paper Soldiers: How the Weaponization of the Dollar Changed the World Order",
+      "book_id": "179548473",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687231144l/179548473._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Katabasis",
+      "book_id": "210223811",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1762103964l/210223811._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Women",
+      "book_id": "127305853",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733493019l/127305853._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Abundance",
+      "book_id": "176444106",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737312514l/176444106._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Restaurant of Lost Recipes (Kamogawa Food Detectives, #2)",
+      "book_id": "205063868",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709456551l/205063868._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Hunchback",
+      "book_id": "214986269",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740937485l/214986269._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Idiot",
+      "book_id": "30962053",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474782288l/30962053.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\ub2ec\uae4c\uc9c0 \uac00\uc790",
+      "book_id": "57802924",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618927521l/57802924.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\ud640 The Hole",
+      "book_id": "34811171",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491481912l/34811171._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Weep Not Child",
+      "book_id": "159336",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114386l/159336._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uc81c3\ub3c4\uc2dc",
+      "book_id": "245370876",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765923530l/245370876._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Good Material",
+      "book_id": "96177629",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1788280424l/96177629._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uc7ac\uc778, \uc7ac\uc6b1, \uc7ac\ud6c8",
+      "book_id": "41887374",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537234832l/41887374.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "How to Hide an Empire: A History of the Greater United States",
+      "book_id": "40121985",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627757585l/40121985._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Sociopath",
+      "book_id": "176443093",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710615468l/176443093._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Lessons in Chemistry",
+      "book_id": "242528917",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759925297l/242528917.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Imagined Communities: Reflections on the Origin and Spread of Nationalism",
+      "book_id": "399136",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761637021l/399136._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Decolonize Hipsters",
+      "book_id": "56358376",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608555988l/56358376._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Diversity of Aesthetics",
+      "book_id": "216783433",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733515978l/216783433._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Decolonize Drag (Decolonize That!)",
+      "book_id": "84896453",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678281986l/84896453._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Unsettled: Cambodian Refugees in the New York City Hyperghetto (Asian American History & Cultu)",
+      "book_id": "24945041",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436842229l/24945041.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\ud589\uc131\uc5b4 \uc11c\uc810",
+      "book_id": "59642446",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637141177l/59642446._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uc5b4\uc11c\uc624\uc138\uc694, \ud734\ub0a8\ub3d9 \uc11c\uc810\uc785\ub2c8\ub2e4",
+      "book_id": "60477537",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652437041l/60477537._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "1984",
+      "book_id": "61439040",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Book Censor's Library",
+      "book_id": "175678711",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696977361l/175678711._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Bilingualism",
+      "book_id": "212808324",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737741767l/212808324._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Blue Sisters",
+      "book_id": "195430687",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726685281l/195430687._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Cook",
+      "book_id": "40121958",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529544499l/40121958.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Fourth Wing (The Empyrean, #1)",
+      "book_id": "61431922",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761312598l/61431922._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "All About Love: New Visions",
+      "book_id": "17607",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757107647l/17607._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Everything I Know About Love",
+      "book_id": "46041465",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563761980l/46041465.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Poppy War (The Poppy War, #1)",
+      "book_id": "35068705",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Korean Edition J-Novel [The Murder of My Favorite] (\ucd5c\uc560\uc758 \uc0b4\uc778)",
+      "book_id": "228209768",
+      "cover_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png",
+      "read_year": 2025
+    },
+    {
+      "title": "The Bridge on the Drina (Bosnian Trilogy, #1)",
+      "book_id": "3140",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391505254l/3140.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Thinking Heart: On Israel and Palestine",
+      "book_id": "214100227",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729782997l/214100227.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uc544\uc8fc \ud76c\ubbf8\ud55c \ube5b\uc73c\ub85c\ub3c4",
+      "book_id": "195793859",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691327249l/195793859._SX318_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Mrs. Dalloway",
+      "book_id": "14942",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646148221l/14942._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Poverty, by America",
+      "book_id": "61358638",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665696294l/61358638._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Man or Mango?",
+      "book_id": "539579",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175633936l/539579.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Emperor of Gladness",
+      "book_id": "219848315",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1747142606l/219848315._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "What I'd Rather Not Think About",
+      "book_id": "61921644",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677023730l/61921644._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "\uc1fc\ucf54\uc758 \ubbf8\uc18c",
+      "book_id": "33637705",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483066762l/33637705.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Night In The American Village: Women in the Shadow of the U.S. Military Bases in Okinawa",
+      "book_id": "46022301",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558924632l/46022301._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Decolonising the Mind: The Politics of Language in African Literature",
+      "book_id": "152622",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172244946l/152622.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Killing Season: A History of the Indonesian Massacres, 1965-66",
+      "book_id": "34928239",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493322024l/34928239.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "First Year (The Black Mage, #1)",
+      "book_id": "33897359",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484696646l/33897359._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "The Architecture of Disability: Buildings, Cities, and Landscapes beyond Access",
+      "book_id": "60557267",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668309614l/60557267.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Red Queen (Red Queen, #1)",
+      "book_id": "22328546",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449778912l/22328546._SY475_.jpg",
+      "read_year": 2025
+    },
+    {
+      "title": "Free: A Child and a Country at the End of History",
+      "book_id": "58085227",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636348840l/58085227.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Foster",
+      "book_id": "8143909",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328146652l/8143909.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Small Things Like These",
+      "book_id": "58662236",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Four Treasures of the Sky",
+      "book_id": "55987334",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620715564l/55987334.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "The Orange and Other Poems",
+      "book_id": "200539015",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698881293l/200539015._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc544\ubb34\ud2bc, \uc678\uad6d\uc5b4",
+      "book_id": "41460400",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535250324l/41460400.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Siddharta",
+      "book_id": "42639871",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541455996l/42639871._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World",
+      "book_id": "53054943",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575565282l/53054943._SX318_SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc11c\ub78d\uc5d0 \uc800\ub141\uc744 \ub123\uc5b4 \ub450\uc5c8\ub2e4",
+      "book_id": "29988297",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677308328l/29988297._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ubc29\uae08 \ub5a0\ub098\uc628 \uc138\uacc4",
+      "book_id": "60118194",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642100453l/60118194._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "book_id": "1842",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Pure Invention: How Japan Made the Modern World",
+      "book_id": "58393493",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624308319l/58393493._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)",
+      "book_id": "62047992",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671208761l/62047992.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uac74\ub110\ubaa9\uc758 \uc720\ub839",
+      "book_id": "194333746",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701425223l/194333746._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Stay True",
+      "book_id": "59900070",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647558486l/59900070._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+      "book_id": "33917107",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484763736l/33917107.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "The Metamorphosis",
+      "book_id": "485894",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605l/485894._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ub098\ub294 \uc77d\uace0 \uc4f0\uace0 \ubc84\ub9b0\ub2e4",
+      "book_id": "211877178",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713604988l/211877178._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Whereabouts",
+      "book_id": "53438824",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695938l/53438824.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Time Is a Mother",
+      "book_id": "58582927",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626846358l/58582927.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc18c\ub144\uc774 \uc628\ub2e4",
+      "book_id": "22364062",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401277073l/22364062.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc778\uac04\uc2e4\uaca9",
+      "book_id": "50179421",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702353536l/50179421._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Decolonize Museums (Decolonize That!)",
+      "book_id": "60830302",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650226961l/60830302._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Conquer the Day: A Book of Affirmations",
+      "book_id": "52716734",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598832613l/52716734._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "A Century of Genocide: Utopias of Race and Nation",
+      "book_id": "592631",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388895391l/592631.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ud30c\uacac\uc790\ub4e4",
+      "book_id": "202139251",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700003077l/202139251._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc791\ubcc4\ud558\uc9c0 \uc54a\ub294\ub2e4",
+      "book_id": "58896398",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630394216l/58896398._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "First They Killed My Father: A Daughter of Cambodia Remembers",
+      "book_id": "4373",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407105580l/4373.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Less (Arthur Less, #1)",
+      "book_id": "39927096",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524491811l/39927096._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc218\ube0c\ub2e4\ub2c8\uc758 \uc5ec\ub984\ud734\uac00",
+      "book_id": "123857347",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680008835l/123857347.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ub9c8\ud754\uc5d0 \uc77d\ub294 \ub2c8\uccb4",
+      "book_id": "62829334",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664533793l/62829334._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Yellowface",
+      "book_id": "62047984",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671336608l/62047984.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ud55c\uad6d\uc774 \uc2eb\uc5b4\uc11c",
+      "book_id": "25870556",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442970378l/25870556._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Babel",
+      "book_id": "57945316",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ube0c\ub85c\ucf5c\ub9ac \ud380\uce58",
+      "book_id": "198113315",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693239108l/198113315._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uaf43\uc744 \ubcf4\ub4ef \ub108\ub97c \ubcf8\ub2e4",
+      "book_id": "33876075",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484660412l/33876075.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc544\uba54\ubc14",
+      "book_id": "56613825",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610282774l/56613825._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ub208\uc0ac\ub78c \uc790\uc0b4 \uc0ac\uac74",
+      "book_id": "61134878",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661907407l/61134878._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc6b0\ub9ac\uac00 \ube5b\uc758 \uc18d\ub3c4\ub85c \uac08 \uc218 \uc5c6\ub2e4\uba74",
+      "book_id": "52214051",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566297225l/52214051._SX318_SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc774\uac78 \ub0b4 \ub9c8\uc74c\uc774\ub77c\uace0 \ud558\uc790",
+      "book_id": "197671816",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692782385l/197671816._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uc9c0\uad6c \ub05d\uc758 \uc628\uc2e4",
+      "book_id": "59250709",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633851252l/59250709._SX318_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\uac00\uba74 \uc0b0\uc7a5 \uc0b4\uc778\uc0ac\uac74",
+      "book_id": "28338298",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451073156l/28338298.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Fun Home: A Family Tragicomic",
+      "book_id": "26135825",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440097020l/26135825._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "The Piano Lesson",
+      "book_id": "565978",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407615568l/565978.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Red Scare: The State's Indigenous Terrorist (American Studies Now: Critical Histories of the Present) (Volume 14)",
+      "book_id": "57527337",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619546181l/57527337.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Confessions of the Fox",
+      "book_id": "36470806",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522115915l/36470806._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Mean Spirit",
+      "book_id": "530878",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581682908l/530878._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "On Earth We're Briefly Gorgeous",
+      "book_id": "41880609",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615580168l/41880609._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "The Book of Salt",
+      "book_id": "2719",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441635660l/2719._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "\ub098\ub294 \uba54\ud2b8\ub85c\ud3f4\ub9ac\ud0c4 \ubbf8\uc220\uad00\uc758 \uacbd\ube44\uc6d0\uc785\ub2c8\ub2e4",
+      "book_id": "204335786",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704818469l/204335786._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "book_id": "58784475",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636978687l/58784475._SY475_.jpg",
+      "read_year": 2024
+    },
+    {
+      "title": "In the Time of the Butterflies",
+      "book_id": "45013993",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554895427l/45013993._SY475_.jpg",
+      "read_year": 2024
+    }
+  ]
 }

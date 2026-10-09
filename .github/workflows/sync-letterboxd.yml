@@ -1,8 +1,8 @@
-name: Sync Goodreads read shelf
+name: Sync Letterboxd films
 
 on:
   schedule:
-    - cron: '17 9 * * *'
+    - cron: '37 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -23,17 +23,17 @@ jobs:
       - name: Install sync dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Sync Goodreads read shelf
-        run: python scripts/sync_goodreads.py
+      - name: Sync Letterboxd films
+        run: python scripts/sync_letterboxd.py
 
-      - name: Commit changed bookshelf
+      - name: Commit changed films
         run: |
-          if git diff --quiet -- public/data/bookshelf.json; then
-            echo "Goodreads read shelf is unchanged."
+          if git diff --quiet -- public/data/letterboxd.json; then
+            echo "Letterboxd feed is unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/bookshelf.json
-          git commit -m "Update Goodreads read shelf"
+          git add public/data/letterboxd.json
+          git commit -m "Update Letterboxd feed"
           git push

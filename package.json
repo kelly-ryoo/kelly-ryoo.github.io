@@ -7,7 +7,10 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "sync:bookshelf": ".venv/bin/python scripts/sync_goodreads.py"
+    "sync:bookshelf": ".venv/bin/python scripts/sync_goodreads.py",
+    "sync:films": ".venv/bin/python scripts/sync_letterboxd.py",
+    "sync:zines": ".venv/bin/python scripts/sync_zines.py",
+    "sync:teas": ".venv/bin/python scripts/sync_teas.py"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
